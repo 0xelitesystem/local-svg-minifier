@@ -1,8 +1,8 @@
-# SVG Optimizer
+# Local SVG Minifier
 
 Strip and minify SVG markup in your browser: no upload, no network, nothing leaves your machine.
 
-**Live demo:** https://0xelitesystem.github.io/svg-optimizer/
+**Live demo:** https://0xelitesystem.github.io/local-svg-minifier/
 
 ## Use
 
@@ -31,8 +31,8 @@ Everything runs in your browser. Your SVG is parsed, optimized, and previewed en
 ## Run locally
 
 ```
-git clone https://github.com/0xelitesystem/svg-optimizer.git
-cd svg-optimizer
+git clone https://github.com/0xelitesystem/local-svg-minifier.git
+cd local-svg-minifier
 ```
 
 Then open `index.html` directly in a browser, or serve the folder:
