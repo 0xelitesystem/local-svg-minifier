@@ -57,5 +57,5 @@ MIT. Copyright (c) 2026 RBL Industries LLC.
 
 ## Related
 
-- JWT Inspector: https://github.com/0xelitesystem/jwt-inspector
+- JWT Verify in Browser: https://github.com/0xelitesystem/jwt-verify-in-browser
 - E-E-A-T signals reference: https://github.com/0xelitesystem/eeat-signals-reference
